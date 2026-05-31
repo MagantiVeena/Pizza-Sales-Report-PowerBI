@@ -24,7 +24,7 @@ To help a pizza business understand:
 - DAX (for calculated measures and KPIs)
 
 ## 📸 Dashboard Preview
-![Pizza Sales Dashboard](Screenshot2026-05-31131616.png)
+![Pizza Sales Dashboard](pizza.png)
 
 ## 📁 Files in this Repository
 - `pizza_sales.pbix` – Main Power BI dashboard file
